@@ -1,10 +1,9 @@
 * {
     margin: 0;
     padding: 0;
-    font-size: 1.1rem;
     font-family: 'Bakbak One', cursive;
 }
 
 .navbar-yellow {
-    background-color: #eeae00;
+    background-color: #eeae00!important;
 }
